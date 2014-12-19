@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GroupSolution" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">145634995501895</Value>
+    </Setting>
+    <Setting Name="Scope" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">user_groups</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GroupId" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GroupName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
